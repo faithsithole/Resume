@@ -79,13 +79,9 @@ a.nav:active {
 
 #aboutMebox {
 	padding: 6% 26%;
-	background: url("..//images/adImage.jpg");
+	background: url("..//images/adImage.JPG");
 	/*margin: auto;*/
 }
-
-/*#ABOUT {
-	display: inline-block;
-}*/
 
 #educationbox {
 	background-color: #8b9384;
