@@ -1,0 +1,184 @@
+* {
+	box-sizing: border-box;
+}
+html, body {
+	width: 100%;
+	margin: 0;
+	font-size: 9.5px;
+}
+
+body {
+	background: url("..//images/bodyImage.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#topBar {
+	background-color: black;
+	width: 100%;
+	position: fixed;
+}
+
+#name {
+	font-size: 500%;
+	color: #FFFFE0;
+	padding-top: 400px;
+	text-align: center;
+	font-family: Goudy old style;
+	font-variant: small-caps;
+}
+
+#navigation {
+	font-size: 220%;
+	padding: 30px;
+	text-align: center;
+	font-family: Century Gothic;
+}
+
+span {
+	padding-right: 50px;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a.nav:link {
+    text-decoration: none;
+}
+
+/* unvisited link */
+a.nav:link {
+    color: white;
+}
+
+/* visited link */
+a.nav:visited {
+    color: white;
+}
+
+/* mouse over link */
+a.nav:hover {
+    /*color: #85A366;*/
+    color: #6C7467;
+}
+
+/* selected link */
+a.nav:active {
+    color: #6C7467;
+}
+
+#contentwrap {
+	color: black;
+	font-family: Questrial;
+	font-size: 2em;
+	font-style: bold;
+	padding-top: 400px;
+}
+
+#aboutMebox {
+	padding: 6% 26%;
+	background-image: url("..//images/adImage.jpg");
+	margin: auto;
+}
+
+#ABOUT {
+	display: inline-block;
+}
+
+#educationbox {
+	background-color: #8b9384;
+	padding: 6% 26%;
+	color: white;
+	margin-top: 80px;
+}
+
+#workExpbox {
+	padding: 6% 26%;
+	background-color: #dcd2c9;
+	margin-top: 80px;
+}
+
+#presentationsbox {
+	padding: 6% 26%;
+	background-color: #8b9384;
+	color: white;
+	margin-top: 80px;
+}
+
+#honorsbox {
+	padding: 6% 26%;
+	background-color: #dcd2c9;
+	margin-top: 80px;
+}
+
+#skillsbox {
+	background-color: #8b9384;
+	padding: 6% 26%;
+	color: white;
+	margin-top: 80px;
+}
+
+.date {
+	display: inline-block;
+	width: 40%;
+	font-weight: bold;
+	padding-right: 30px;
+}
+
+.work {
+	display: inline-block;
+	float: right;
+	width: 60%;
+}
+
+.workdate {
+	padding-bottom: 50px;
+}
+
+#exhibitionsbox {
+	padding: 6% 26%;
+	background-color: #dcd2c9;
+	margin-top: 80px;
+}
+
+#affilibox {
+	background-color: #8b9384;
+	color: white;
+	padding: 6% 26%;
+	margin-top: 80px;
+}
+
+#contactbox {
+	background-color: #dcd2c9;
+	padding: 6% 26%;
+	margin-top: 80px;
+}
+
+/*subheadings*/
+h3 {
+	font-size: 300%;
+	font-family: Century Gothic;
+}
+
+#projects {
+	display: inline-block;
+}
+
+a.other:link {
+    color: green;
+}
+
+a.other:visited {
+    color: green;
+}
+
+footer {
+	font-size: 80%;
+	padding-top: 100px;
+}
+
+
+
+
