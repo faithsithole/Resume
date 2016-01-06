@@ -79,7 +79,7 @@ a.nav:active {
 
 #aboutMebox {
 	padding: 6% 26%;
-	background: url("..//images/adImage.JPG");
+	background-image: url("..//images/adImage.JPG");
 	/*margin: auto;*/
 }
 
